@@ -7,3 +7,6 @@ https://github.com/foospidy/payloads
 
 **nmapAutomator**
 https://github.com/21y4d/nmapAutomator
+
+**Red Teams tips**
+https://vincentyiu.com/red-team-tips/
