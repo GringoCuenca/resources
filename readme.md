@@ -1,4 +1,4 @@
-## Tools repositories
+## Resources repositories
 **Pentesting Bible**
 https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE
 
