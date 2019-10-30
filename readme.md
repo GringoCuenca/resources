@@ -15,3 +15,6 @@ https://danielmiessler.com/blog/when-vulnerability-assessments-pentesting-red-te
 
 **Como iniciar en Bugbounty en 4 simples pasos**
 https://www.facebook.com/225839150765952/posts/3055575337792305
+
+**Complete Google Dorks List in 2019 For Ethical Hacking and Penetration Testing**
+https://gbhackers.com/latest-google-dorks-list/
