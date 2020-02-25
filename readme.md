@@ -5,6 +5,9 @@ https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE
 **payloads**
 https://github.com/foospidy/payloads
 
+**0xsp - Red Teaming Toolkit Collection**
+https://0xsp.com/offensive/red-teaming-toolkit-collection
+
 
 ## Articles
 **Red Teams tips**
