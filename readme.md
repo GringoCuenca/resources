@@ -8,6 +8,11 @@ https://github.com/foospidy/payloads
 **0xsp - Red Teaming Toolkit Collection**
 https://0xsp.com/offensive/red-teaming-toolkit-collection
 
+**Living Off The Land Binaries and Scripts**
+https://lolbas-project.github.io
+
+**GTFOBins (Living Off The Land for Unix systems)** 
+https://gtfobins.github.io/
 
 ## Articles
 **Red Teams tips**
